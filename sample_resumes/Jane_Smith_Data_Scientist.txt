@@ -1,0 +1,21 @@
+Jane Smith
+Email: jane.smith@example.com | Phone: +1-555-0248
+Location: New York, NY
+
+EDUCATION
+Master of Science (MS) in Data Science & Machine Learning - Columbia University
+Bachelor of Science (BS) in Mathematics
+
+SUMMARY
+Data Scientist with 4+ years of expertise in Natural Language Processing (NLP), statistical modeling, and deep learning.
+
+SKILLS
+- Languages: Python, SQL, R, Bash
+- AI & NLP: NLTK, spaCy, Transformers, Scikit-learn, PyTorch, Tokenization, Lemmatization, Feature Extraction
+- Tools & Cloud: AWS, Docker, Git, Pandas, NumPy, Jupyter, Tableau
+- Concepts: Predictive Modeling, Statistical Data Analysis, Machine Learning Pipelines
+
+EXPERIENCE
+Senior NLP Engineer | DataMatrix Labs (2022 - Present)
+- Developed text classification and keyword extraction models using NLTK and transformer architectures.
+- Processed 10TB+ unstructured resume and document datasets.

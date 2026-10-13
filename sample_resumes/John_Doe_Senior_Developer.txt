@@ -1,0 +1,21 @@
+John Doe
+Email: john.doe@example.com | Phone: +1-555-0199
+Location: San Francisco, CA
+
+EDUCATION
+Bachelor of Science (B.Tech) in Computer Science - University of California
+
+SUMMARY
+Senior Software Engineer with 6+ years of experience designing scalable microservices and full-stack web applications.
+
+SKILLS
+- Languages & Frameworks: Python, Flask, Django, FastAPI, JavaScript, TypeScript, React, HTML5, CSS3, SQL
+- Databases & Caching: PostgreSQL, MySQL, Redis, MongoDB
+- Cloud & DevOps: Docker, Kubernetes, AWS, CI/CD, Git, GitHub Actions, Linux
+- Architecture & Practices: RESTful APIs, Microservices, Agile, Unit Testing, Lemmatization, Software Engineering
+
+EXPERIENCE
+Lead Backend Developer | TechFlow Solutions (2021 - Present)
+- Architected REST APIs using Python and Flask handling over 5 million daily requests.
+- Containerized microservices using Docker and orchestrated deployments on Kubernetes clusters.
+- Improved database query performance in PostgreSQL by 35%.
